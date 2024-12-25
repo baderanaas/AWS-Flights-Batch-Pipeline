@@ -1,0 +1,4 @@
+{
+    "source": ["aws.glue"],
+    "detail-type": ["Glue Job State Change"]
+  }
